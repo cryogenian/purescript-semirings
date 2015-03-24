@@ -1,5 +1,15 @@
 # Module Documentation
 
+## Module Data.Semiring
+
+#### `semiringBool`
+
+``` purescript
+instance semiringBool :: Semiring Boolean
+```
+
+
+
 ## Module Data.Semiring.Free
 
 #### `Free`
